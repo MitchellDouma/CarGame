@@ -1,5 +1,5 @@
 # CarGame
-Drive car down the highway.
+Drive a car down the highway.
 
 <img src="Screenshots/CarGame.PNG" width="300"/>
 
