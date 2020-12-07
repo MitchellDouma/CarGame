@@ -1,7 +1,7 @@
 # CarGame
 Drive car down the highway.
 
-<img src="Screenshots/CarGame.PNG width="100"/>
+<img src="Screenshots/CarGame.PNG" width="100"/>
 
 This is a project where I learned to incorporate animations into a webpage using JavaScript.
 
